@@ -131,17 +131,14 @@ Debugging complex issues and delivering practical technical solutions.
   <a href="https://github.com/AK-Ajith">
     <img src="https://img.shields.io/badge/GitHub-AK--Ajith-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ajithk-?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_VERIFIED_EMAIL">
+  <a href="mailto:ajithkrishnadas1000@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AK-Ajith&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" />
-</p>
 
 <p align="center">
   <i>"Great software is built one problem at a time."</i>
